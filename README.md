@@ -8,31 +8,31 @@ A simple calculator built with **HTML, CSS, and JavaScript** that performs basic
 ---
 
 ## ✨ Features
-- Addition, subtraction, multiplication, division
-- Responsive design for desktop and mobile
-- Clear and reset functionality
+- Addition, subtraction, multiplication, division<br>
+- Responsive design for desktop and mobile<br>
+- Clear and reset functionality<br>
 
 ---
 
 ## 📂 Project Structure
 basic-calculator/
-│── index.html
-│── style.css
-│── script.js
+│── index.html<br>
+│── style.css<br>
+│── script.js<br>
 │── README.md
 
 📋 Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JAVASCRIPT
 
 🔮 Future Improvements
-Add scientific functions (square root, power, etc.)
-Dark mode toggle
-Keyboard input support
+- Add scientific functions (square root, power, etc.)<br>
+- Dark mode toggle<br>
+- Keyboard input support
 
 🤝 Contributing
-Contributions are welcome!
+Contributions are welcome!<br>
 Fork the repo and submit a pull request.
 
 ## 🚀 Installation & Usage
