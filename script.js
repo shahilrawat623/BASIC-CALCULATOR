@@ -26,8 +26,6 @@ const clearContent = () => {
     inputEl.value = "";
 };
 
-
-
 backEl.addEventListener("click", () => {
   inputEl.value = inputEl.value.slice(0, -1);
 });
